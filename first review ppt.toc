@@ -1,0 +1,12 @@
+\beamer@endinputifotherversion {3.36pt}
+\select@language {english}
+\beamer@subsectionintoc {0}{1}{Introduction}{2}{0}{0}
+\beamer@subsectionintoc {0}{2}{Abstract}{4}{0}{0}
+\beamer@subsectionintoc {0}{3}{Existing System}{6}{0}{0}
+\beamer@subsectionintoc {0}{4}{Literature Survey}{8}{0}{0}
+\beamer@subsectionintoc {0}{5}{System Design}{12}{0}{0}
+\beamer@subsectionintoc {0}{6}{Module Description}{14}{0}{0}
+\beamer@subsectionintoc {0}{7}{Software Tools and Techniques}{20}{0}{0}
+\beamer@subsectionintoc {0}{8}{Implementation}{23}{0}{0}
+\beamer@subsectionintoc {0}{9}{Conclusion}{27}{0}{0}
+\beamer@subsectionintoc {0}{10}{References}{29}{0}{0}
